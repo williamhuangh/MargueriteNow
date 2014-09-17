@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Marguerite Now</string>
+    <string name="action_settings">Settings</string>
+    <string name="LineY">Line Y</string>
+    <string name="LineX">Line X</string>
+    <string name="LineV">Line V</string>
+    <string name="SLAC">SLAC</string>
+    <string name="title_activity_display_yline">DisplayYLine</string>
+    <string name="title_activity_display_stops">DisplayStops</string>
+    <string name="Palo_Alto_Transit_Center">Palo Alto Transit Center (Caltrain platform)</string>
+    <string name="Galvez_St._at_El_Camino_Real">Galvez St. @ El Camino Real</string>
+    <string name="Schwab_Center_and_Knight_Center">Schwab Center &amp; Knight Center (Serra St.)</string>
+    <string name="PS6_Vaden_Campus_Drive_East">PS6/Vaden (Campus Drive East)</string>
+    <string name="Tresidder_Student_Union">Tresidder Student Union</string>
+    <string name="Panama_at_Via_Ortega_Y2E2">Panama @ Via Ortega (Y2E2)</string>
+    <string name="Li_Ka_Shing_Center_at_Via_Ortega">Li Ka Shing Center @ Via Ortega</string>
+    <string name="Stanford_Medical_Center_Roth_Way">Stanford Medical Center (Roth Way)</string>
+    <string name="Palo_Alto_Transit_Center_Arrival">Palo Alto Transit Center (Caltrain platform) Arrival</string>
+    
+	
+	<string name="title_activity_display_line">DisplayLine</string>
+    <string name="title_activity_display_line_y">DisplayLineY</string>
+    <string name="title_activity_display_time">DisplayTime</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_display_line_x">DisplayLineX</string>
+    <string name="title_activity_display_slac">DisplaySLAC</string>
+
+</resources>

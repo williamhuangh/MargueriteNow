@@ -1,0 +1,89 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".DisplayLineY" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/Palo_Alto_Transit_Center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="showTime"
+            android:tag="@string/Palo_Alto_Transit_Center"
+            android:text="@string/Palo_Alto_Transit_Center" />
+
+        <Button
+            android:id="@+id/Galvez_St._at_El_Camino_Real"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="showTime"
+            android:tag="@string/Galvez_St._at_El_Camino_Real"
+            android:text="@string/Galvez_St._at_El_Camino_Real" />
+
+        <Button
+            android:id="@+id/Schwab_Center_and_Knight_Center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="showTime"
+            android:tag="@string/Schwab_Center_and_Knight_Center"
+            android:text="@string/Schwab_Center_and_Knight_Center" />
+
+        <Button
+            android:id="@+id/PS6_Vaden_Campus_Drive_East"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="showTime"
+            android:tag="@string/PS6_Vaden_Campus_Drive_East"
+            android:text="@string/PS6_Vaden_Campus_Drive_East" />
+
+        <Button
+            android:id="@+id/Tresidder_Student_Union"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="showTime"
+            android:tag="@string/Tresidder_Student_Union"
+            android:text="@string/Tresidder_Student_Union" />
+
+        <Button
+            android:id="@+id/Panama_at_Via_Ortega_Y2E2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="showTime"
+            android:tag="@string/Panama_at_Via_Ortega_Y2E2"
+            android:text="@string/Panama_at_Via_Ortega_Y2E2" />
+
+        <Button
+            android:id="@+id/Li_Ka_Shing_Center_at_Via_Ortega"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="showTime"
+            android:tag="@string/Li_Ka_Shing_Center_at_Via_Ortega"
+            android:text="@string/Li_Ka_Shing_Center_at_Via_Ortega" />
+
+        <Button
+            android:id="@+id/Stanford_Medical_Center_Roth_Way"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="showTime"
+            android:tag="@string/Stanford_Medical_Center_Roth_Way"
+            android:text="@string/Stanford_Medical_Center_Roth_Way" />
+
+        <Button
+            android:id="@+id/Palo_Alto_Transit_Center_Arrival"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="showTime"
+            android:tag="@string/Palo_Alto_Transit_Center_Arrival"
+            android:text="@string/Palo_Alto_Transit_Center_Arrival" />
+    </LinearLayout>
+
+</ScrollView>
