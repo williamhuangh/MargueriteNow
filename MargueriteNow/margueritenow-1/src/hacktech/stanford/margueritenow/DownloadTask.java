@@ -22,7 +22,7 @@ import android.os.Bundle;
 import android.util.Log;
 
 
-//broadcasts HashMap<String, ArrayList<String>> map 
+// broadcasts HashMap<String, ArrayList<String>> map
 @SuppressLint("SimpleDateFormat")
 public class DownloadTask extends IntentService {
 
